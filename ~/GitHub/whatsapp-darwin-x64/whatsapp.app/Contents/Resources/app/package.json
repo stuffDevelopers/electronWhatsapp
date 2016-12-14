@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "Aplicacion creada con electron para linux",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^1.4.12"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stuffDevelopers"
+  },
+  "keywords": [
+    "whatsappweb",
+    "whatsapp",
+    "electron"
+  ],
+  "author": "jhovanymb.info@gmail.com",
+  "license": "ISC"
+}

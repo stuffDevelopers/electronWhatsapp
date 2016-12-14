@@ -1,0 +1,1 @@
+electron-packager ~/GitHub/whatsappDesktop whatsapp --all --version=1.4.12 --out=~/GitHub --overwrite --icon=~/Imagenes/icons/github1.png
