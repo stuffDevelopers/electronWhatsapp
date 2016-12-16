@@ -1,2 +1,10 @@
 [Desktop Entry]
 Icon=folder-development
+
+[Dolphin]
+PreviewsShown=true
+Timestamp=2016,12,14,15,20,33
+Version=3
+
+[Settings]
+HiddenFilesShown=true
